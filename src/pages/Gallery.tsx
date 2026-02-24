@@ -22,8 +22,8 @@ const mumeiOriginals: ArtPiece[] = [
     id: 2, 
     imageUrl: "https://i.redd.it/bllavyp3cqo71.png", 
     sourceUrl: "https://www.reddit.com/r/Hololive/comments/ps7v8p/mumei_is_actually_a_pretty_good_artist/", 
-    title: "Hoshimachi Suisei", 
-    description: "The Drawing of very accurate Hoshimachi Suisei. The expressions are... unforgettable." 
+    title: "A mistake", 
+    description: "The Drawing Mumei draw after seeing Hoshimachi Suisei called her 'very cute'." 
   },
   { 
     id: 3, 
