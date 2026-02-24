@@ -1,5 +1,6 @@
 # 🪶 Mumei's Sketchbook: A Living Archive of the Guardian
 github page : https://65061447.github.io/Mumei/
+// if you don't see a feather maybe it's because you don't have font install : Google Fonts - Noto Color Emoji
 > *"Wherever I go, no matter what I face, I will remember you! (Me too, Mumei)"*
 
 ## 🦉 A Personal Dedication
