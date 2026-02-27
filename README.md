@@ -11,6 +11,6 @@ There was a time in my life when my heart was at its lowest. Everything felt dim
 ## 🎨 Why This Archive Matters (To me)
 She is the reason I learned not to give up on my dreams and my future. It has been a rough time, but Mumei's streams helped me fight through each day. My only regret is that I didn't watch her as often as I could have when she was around, and that realization broke me when the announcement came. 
 
-But for your greater good, Mumei, I support your decision. This is my way to remember you. I don't want to forget at all, so I will keep this in my workplace and revisit these memories every day. Thanks for reading!
+But for your greater good, Mumei, I support your decision. This is my way to remember you. I don't want to forget at all, so I will keep this in my workplace and revisit these memories every day.
 
 ---
